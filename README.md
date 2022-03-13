@@ -22,4 +22,4 @@ This project is made for android development assignment purpose by Glints in col
 ```
 
 ## UI/UX
-UI/UX kit made by myself, can be found in my [figma](https://www.figma.com/file/AYz1GeLYBxed7wdHf0yNRR/Bank-App_Glints-Test-Assignment)
+UI/UX kit, can be found in my [figma](https://www.figma.com/file/AYz1GeLYBxed7wdHf0yNRR/Bank-App_Glints-Test-Assignment)
