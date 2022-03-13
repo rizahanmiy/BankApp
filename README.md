@@ -1,11 +1,12 @@
 # BankApp
+This project is made for android development assignment purpose
 
 * Language used : Java
 * minSdk 23
 * targetSdk 31
 * version 1.0
 * Compiler Java Version 1_8
-* API Provided by [benson7667](https://github.com/RDCMDT/mdt-homework-instruction/blob/master/README.md)
+* API Provided by [benson7667](https://github.com/RDCMDT/mdt-homework-instruction/blob/master/README.md) using Postman
 
 ## Working Features :
 * Login
