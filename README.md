@@ -1,5 +1,4 @@
 # BankApp
-This project is made for android development assignment purpose by Glints in collaboration with OCBC Bank Singapore
 
 * Language used : Java
 * minSdk 23
