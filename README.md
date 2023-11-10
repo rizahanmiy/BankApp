@@ -1,5 +1,5 @@
 # BankApp
-## this repository has been moved temporarily for migrating to Kotlin.
+## this repository is using Java, For Kotlin select branch Edit.
 * Language used : Java
 * minSdk 23
 * targetSdk 31
